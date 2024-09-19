@@ -12,3 +12,6 @@ Quando criamos uma instância de máquina virtual podemos selecionar o sistema o
 
 # Construindo Arquiteturas no Azure
 Na plataforma é possível criar grupo de recursos, que é uma coleção de recursos que compartilham o mesmo ciclo de vida, permissões e políticas. Também é possível criar uma rede virtual, pois cada máquina virtual é necessário um IP para aquela máquina. A redeve virtual pode ser alocada diretamente no grupo de recursos criado. 
+
+# Resumo do laboratório Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure.
+Na Azure é possível configurar uma série de elementos na hora de criar uma máquina virtual. Desde o básico com nome, região, opção de disponibilidade, opção de zona, tamanho da imagem, sistema operacional da imagem até elementos de segurança, rede, gerenciamento, monitoramente; Em cada etapa é possível personalizar da forma que o cliente deseja como estipular uma hora de desligamento, quais aplicativos e extensões serão instalados no momento de criação da máquina virtual entre outros. 
