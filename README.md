@@ -9,3 +9,6 @@ Especificações de SLA são importantes para gerenciamento de recursos na nuvem
 
 # Configurando uma instância no banco de dados da Azure
 Quando criamos uma instância de máquina virtual podemos selecionar o sistema operaciona, seu tamanho e podemos ver os custos mensais que aquele serviço vai ter. No portal também é possível selecionar a aba de criação de banco de dados onde devemos primeiro criar um servidor, escolher o tipo do banco de dados e posteriormente também podemos ver a expectativa de custos mensais. 
+
+# Construindo Arquiteturas no Azure
+Na plataforma é possível criar grupo de recursos, que é uma coleção de recursos que compartilham o mesmo ciclo de vida, permissões e políticas. Também é possível criar uma rede virtual, pois cada máquina virtual é necessário um IP para aquela máquina. A redeve virtual pode ser alocada diretamente no grupo de recursos criado. 
