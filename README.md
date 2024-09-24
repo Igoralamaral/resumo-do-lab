@@ -15,3 +15,6 @@ Na plataforma é possível criar grupo de recursos, que é uma coleção de recu
 
 # Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure.
 Na Azure é possível configurar uma série de elementos na hora de criar uma máquina virtual. Desde o básico com nome, região, opção de disponibilidade, opção de zona, tamanho da imagem, sistema operacional da imagem até elementos de segurança, rede, gerenciamento, monitoramente; Em cada etapa é possível personalizar da forma que o cliente deseja como estipular uma hora de desligamento, quais aplicativos e extensões serão instalados no momento de criação da máquina virtual entre outros. 
+
+# Dominando o Armazenaeno no Azure
+Dentro do console podemos criar contas de armazenamento, sendo necessário a escolha de um nome global único e exclusivo, determinando os serviços de armazenamento e também as opções de redundância. Depois espeficamos os tipos de dados que queremos armazenar de acordo com as opções especificas para aqueles dados. Também foi mostrado as opções de migrações da Azure, como o data box disk, data box, data box heavy, cada um com uma capacidade de armazenameno e quantidade de dias para uso sem custos extras. 
