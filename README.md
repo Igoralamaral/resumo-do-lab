@@ -18,3 +18,6 @@ Na Azure é possível configurar uma série de elementos na hora de criar uma m�
 
 # Dominando o Armazenaeno no Azure
 Dentro do console podemos criar contas de armazenamento, sendo necessário a escolha de um nome global único e exclusivo, determinando os serviços de armazenamento e também as opções de redundância. Depois espeficamos os tipos de dados que queremos armazenar de acordo com as opções especificas para aqueles dados. Também foi mostrado as opções de migrações da Azure, como o data box disk, data box, data box heavy, cada um com uma capacidade de armazenameno e quantidade de dias para uso sem custos extras. 
+
+# Entendendo sobre Segurança e Identidade na Azure
+No console Azure podemos utilizar as funções e administradores da conta quando usamos o Microsoft Entra ID. Dessa forma é possível configurar elementos de outras contas. Com o RBAC podemos criar, excluir, remover funcionalidades e permissionamentos das contas dentro da nuvem.
