@@ -24,3 +24,6 @@ No console Azure podemos utilizar as funções e administradores da conta quando
 
 # Otimizando custos na Azure
 Com a utilização de ferramentas como Calculadora de Custos e Gerenciamento de custos e cobranças, é possível monitorar e estimar os custos de utilização de recursos na Azure. dessa forma podemos observar estimativas de quanto o cliente era gastar, possível alerta de custos, budgets selecionados e também recomendações do advisor. 
+
+# Gerenciando politicas em acessos Azure
+Podemos utilizar recuros de gerenciamento de políticas para que a aplicação esteja em conformidade com as leis e politicas da região em que está implementadada, deixando o ambiente seguro com questões de auditoria. O Microsoft Purview permite criar perfis, selecionar grupos de recurso e permitir gerenciar dados que estão ou não na Azure. Microsoft Priva é um exemplo de aplicação que analisa se um recurso está de acordo com requisitos de alguma determinada lei. 
