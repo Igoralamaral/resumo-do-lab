@@ -27,3 +27,6 @@ Com a utilização de ferramentas como Calculadora de Custos e Gerenciamento de 
 
 # Gerenciando politicas em acessos Azure
 Podemos utilizar recuros de gerenciamento de políticas para que a aplicação esteja em conformidade com as leis e politicas da região em que está implementadada, deixando o ambiente seguro com questões de auditoria. O Microsoft Purview permite criar perfis, selecionar grupos de recurso e permitir gerenciar dados que estão ou não na Azure. Microsoft Priva é um exemplo de aplicação que analisa se um recurso está de acordo com requisitos de alguma determinada lei. 
+
+# Ferramentas de implantação na Azure
+Dentro do portal da Azure tem uma opção de terminal Powershell ou Bash, em que é possível enviar os comandos diretamente pelo terminal, que são enviados para o centralizador Azure Resource Manager que irá interpretar os comandos e seguir com o fluxo para os recursos. 
