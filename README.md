@@ -30,3 +30,6 @@ Podemos utilizar recuros de gerenciamento de políticas para que a aplicação e
 
 # Ferramentas de implantação na Azure
 Dentro do portal da Azure tem uma opção de terminal Powershell ou Bash, em que é possível enviar os comandos diretamente pelo terminal, que são enviados para o centralizador Azure Resource Manager que irá interpretar os comandos e seguir com o fluxo para os recursos. 
+
+# Monitoramente inteligente com o Azure
+Com o serviços de monitoramente da Azure podemos ter exibiçõers personalizar de recursos da Azure com o serviços de Integridade de Serviços (Resource Health), e também podemos monitorar, ter uma telemetria dos dados e aplicativos com o Azure Monitor, analisando de forma fácil e verificando a disponibilidade e desempenho das aplicações. 
