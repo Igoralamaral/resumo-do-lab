@@ -21,3 +21,6 @@ Dentro do console podemos criar contas de armazenamento, sendo necessário a esc
 
 # Entendendo sobre Segurança e Identidade na Azure
 No console Azure podemos utilizar as funções e administradores da conta quando usamos o Microsoft Entra ID. Dessa forma é possível configurar elementos de outras contas. Com o RBAC podemos criar, excluir, remover funcionalidades e permissionamentos das contas dentro da nuvem.
+
+# Otimizando custos na Azure
+Com a utilização de ferramentas como Calculadora de Custos e Gerenciamento de custos e cobranças, é possível monitorar e estimar os custos de utilização de recursos na Azure. dessa forma podemos observar estimativas de quanto o cliente era gastar, possível alerta de custos, budgets selecionados e também recomendações do advisor. 
